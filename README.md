@@ -76,4 +76,4 @@ It also displays the processed video with bounding boxes and tracking IDs.
 
 ## Demo
 
-output.mp4
+<video src="./output.mp4" controls width="800"></video>
