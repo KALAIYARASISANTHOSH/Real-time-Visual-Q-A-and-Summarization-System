@@ -76,4 +76,4 @@ It also displays the processed video with bounding boxes and tracking IDs.
 
 ## Demo
 
-<video src="./output.mp4" controls width="800"></video>
+(https://github.com/KALAIYARASISANTHOSH/Real-time-Visual-Q-A-and-Summarization-System/blob/main/output.mp4)
