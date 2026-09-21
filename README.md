@@ -76,8 +76,4 @@ It also displays the processed video with bounding boxes and tracking IDs.
 
 ## Demo
 
-Add the output video/GIF here:
-
-```text
-assets/demo.gif
-```
+output.mp4
