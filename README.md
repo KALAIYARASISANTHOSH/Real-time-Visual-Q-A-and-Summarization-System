@@ -76,4 +76,6 @@ It also displays the processed video with bounding boxes and tracking IDs.
 
 ## Demo
 
-<video src="https://github.com/KALAIYARASISANTHOSH/Real-time-Visual-Q-A-and-Summarization-System/raw/refs/heads/main/output.mp4" controls width="800"></video>
+## Demo
+
+[▶️ Watch Output Video](https://github.com/KALAIYARASISANTHOSH/Real-time-Visual-Q-A-and-Summarization-System/raw/refs/heads/main/output.mp4)
